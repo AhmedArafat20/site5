@@ -1,5 +1,5 @@
 
-const PHONE = "966500000000";
+const PHONE = "966542980779";
 
 const menuToggle = document.getElementById("menuToggle");
 const navLinks = document.getElementById("navLinks");
